@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="UefiApplication.c">
+    <ClCompile Include="UefiDriver.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
