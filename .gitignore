@@ -1,0 +1,13 @@
+*/.vs
+*/Debug/
+*/x64/
+*/*/x64/
+*/*/Debug/
+*/Release
+*/*/Release
+*/*/.vs
+*/*/*/Debug/
+*/*/*/x64/
+*/*/*/Release
+*.aps
+*.vcxproj.user
