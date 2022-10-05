@@ -1,4 +1,12 @@
-﻿#include <Uefi.h>
+﻿/******************************************
+
+	注意：使用 Release x64 编译
+
+	修改： ... 项目 -> 右键属性 -> 配置属性 -> 调试 -> 命令参数：
+	指定其中一个参数为：-drive file=fat:rw:..\Example1\$(Platform)\$(Configuration)\
+
+******************************************/
+#include <Uefi.h>
 #include <Library/UefiLib.h>
 
 // 我们可以在任何 UEFI 规范上 运行它
